@@ -929,6 +929,10 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Windy.com](https://windy.com) | Prague, Czechia | Talk and write small program on a computer
 - [Wirecard Brasil](https://wirecardbrasil.workable.com) | São Paulo, Brazil | Phone or on-site Cultural Fit interview, take-home coding challenge, code review and discussing in-person.
 - [Wiredcraft](https://wiredcraft.com) | Shanghai, China | Phone or on-site interview, take-home coding challenge, code review and discussing in-person.
+- [Wurkplace](https://wiredcraft.com) | Shanghai, China | Phone or on-site interview, take-home coding challenge, code review and discussing in-person.
+- [Wurkplace Hub](https://wurkplacehub.com/) | Chester, United Kingdom | Teams meeting or on-site interview, then interview with the team.
+- [Wurkplace](https://wurkplace.co.uk/)) | Chester, United Kingdom | Teams meeting or on-site interview, then interview with the team.
+- 
 - [WorldGaming](https://worldgaming.com) | Toronto, Canada | Technical Interview, Solution Design, Take Home Assignment, then Culture fit interview with the team
 - [WyeWorks](https://wyeworks.com) | Montevideo, Uruguay | Take-home project and discussion on-site
 - [X-Team](https://x-team.com) | Remote | A short, fun Node.js challenge, followed by a series of culture-based interview questions, followed by a creative mock project with tons of freedom on how to approach, and follow-up questions about the approach they chose to discuss the tradeoffs. Usually a 10-30 day paid training is rewarded to top candidates to prep them for remote communication skills needed to join a team.
